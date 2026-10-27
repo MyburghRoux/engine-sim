@@ -1,0 +1,14 @@
+{
+  "name": "revving-revised",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Procedural engine-sound app \u2014 current build served from site/.",
+  "scripts": {
+    "start": "node server.mjs",
+    "serve": "node server.mjs --no-open"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
